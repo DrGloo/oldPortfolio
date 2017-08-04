@@ -1,0 +1,13 @@
+	body {
+		background-image: url(Images/websitebackground.png);
+	}
+	
+	
+	#mainbox{
+		opacity:0.8;
+	}
+	
+	#titlebox
+	{
+		opacity: 0.5;
+	}
