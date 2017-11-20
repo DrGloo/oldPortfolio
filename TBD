@@ -292,6 +292,243 @@ window.ShopifyPaypalV4VisibilityTracking = true;
       </div>
     </div>
 
+    <div class="v valign-wrapper">
+      <div class="c ci">
+        <div class="d iv jc offset-m1">
+          <div class="c">
+            <div class="d iv"><h2 class="section-title">Features</h2></div>
+            <div class="d iv jo kk">
+              <h4><i class="icon-light-bulb"></i></h4>
+              <p class="ek">This is a cool feature about your product! It really separates you from the crowd.</p>
+            </div>
+            <div class="d iv jo kk">
+              <h4><i class="icon-bolt"></i></h4>
+              <p class="ek">This is a cool feature about your product! It really separates you from the crowd.</p>
+            </div>
+            <div class="d iv jo kk">
+              <h4><i class="icon-rocket"></i></h4>
+              <p class="ek">This is a cool feature about your product! It really separates you from the crowd.</p>
+            </div>
+            <div class="d iv jo kk">
+              <h4><i class="icon-settings"></i></h4>
+              <p class="ek">This is a cool feature about your product! It really separates you from the crowd.</p>
+            </div>
+            <div class="d iv jo kk">
+              <h4><i class="icon-umbrella"></i></h4>
+              <p class="ek">This is a cool feature about your product! It really separates you from the crowd.</p>
+            </div>
+            <div class="d iv jo kk">
+              <h4><i class="icon-compass"></i></h4>
+              <p class="ek">This is a cool feature about your product! It really separates you from the crowd.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Pricing Tables -->
+    <div class="v valign-wrapper">
+      <div class="c ci">
+        <div class="d iv jc offset-m1">
+          <div class="c">
+            <div class="d iv kr">
+              <div class="pricing-table">
+                <div class="pricing-header">
+                  <i class="icon-paper-plane"></i>
+                  <h4>Basic</h4>
+                  <div class="gd">
+                    <span class="hm">$</span>
+                    <span class="dollars">9</span>
+                    <span class="ic">99</span>
+                  </div>
+                </div>
+                <ul class="pricing-features">
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature au"><i class="icon-close"></i>Pro and above.</li>
+                  <li class="pricing-feature au"><i class="icon-close"></i>Enterprise only.</li>
+                  <li class="pricing-feature au"><i class="icon-close"></i>Enterprise only.</li>
+                  <li class="pricing-feature au"><i class="icon-close"></i>Enterprise only.</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="d iv kr">
+              <div class="pricing-table fk">
+                <div class="pricing-header">
+                  <i class="icon-plane"></i>
+                  <h4>Pro</h4>
+                  <div class="gd">
+                    <span class="hm">$</span>
+                    <span class="dollars">59</span>
+                    <span class="ic">99</span>
+                  </div>
+                </div>
+                <ul class="pricing-features">
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>Pro and above.</li>
+                  <li class="pricing-feature au"><i class="icon-close"></i>Enterprise only.</li>
+                  <li class="pricing-feature au"><i class="icon-close"></i>Enterprise only.</li>
+                  <li class="pricing-feature au"><i class="icon-close"></i>Enterprise only.</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="d iv kr">
+              <div class="pricing-table">
+                <div class="pricing-header">
+                  <i class="icon-rocket"></i>
+                  <h4>Enterprise</h4>
+                  <div class="gd">
+                    <span class="hm">$</span>
+                    <span class="dollars">299</span>
+                    <span class="ic">99</span>
+                  </div>
+                </div>
+                <ul class="pricing-features">
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>10 product uses.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>Enterprise only.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>Enterprise only.</li>
+                  <li class="pricing-feature"><i class="icon-accept"></i>Enterprise only.</li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="v r full-height">
+      <div class="c">
+        <div class="d iv jc offset-m1 ef">
+          <h1>blog</h1>
+          <div class="c masonry-grid">
+
+            <div class="d iv jo kk">
+              <div class="m">
+                <div class="card-image">
+                  <a href="startup-blog.html"><img src="//cdn.shopify.com/s/files/1/1775/8583/t/1/assets/poly1.jpg?11734121042004979933"></a>
+                  <span class="card-title">Something Interesting</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="d iv jo kk">
+              <div class="m">
+                <div class="card-image">
+                  <a href="startup-blog.html"><img src="//cdn.shopify.com/s/files/1/1775/8583/t/1/assets/poly2.jpg?11734121042004979933"></a>
+                  <span class="card-title">Another Blog Post</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="d iv jo kk">
+              <div class="m">
+                <div class="card-image">
+                  <a href="startup-blog.html"><img src="//cdn.shopify.com/s/files/1/1775/8583/t/1/assets/poly3.jpg?11734121042004979933"></a>
+                  <span class="card-title">Click Bait Article</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="d iv jo kk">
+              <div class="m">
+                <div class="card-image">
+                  <a href="startup-blog.html"><img src="//cdn.shopify.com/s/files/1/1775/8583/t/1/assets/poly4.jpg?11734121042004979933"></a>
+                  <span class="card-title">Don't Read This!</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="d iv jo kk">
+              <div class="m">
+                <div class="card-image">
+                  <a href="startup-blog.html"><img src="//cdn.shopify.com/s/files/1/1775/8583/t/1/assets/poly5.jpg?11734121042004979933"></a>
+                  <span class="card-title">Why Are You Still Reading?</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="d iv jo kk">
+              <div class="m">
+                <div class="card-image">
+                  <a href="startup-blog.html"><img src="//cdn.shopify.com/s/files/1/1775/8583/t/1/assets/poly6.jpg?11734121042004979933"></a>
+                  <span class="card-title">Good Bye</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="v r valign-wrapper">
+      <div class="c ci">
+        <form class="d iv jc offset-m1">
+          <div class="c">
+            <div class="d iv"><h2 class="section-title">Contact Us</h2></div>
+            <div class="input-field d ka">
+              <input id="first_name" type="text">
+              <label for="first_name">First Name</label>
+            </div>
+            <div class="input-field d ka">
+              <input id="last_name" type="text">
+              <label for="last_name">Last Name</label>
+            </div>
+            <div class="input-field d iv">
+              <textarea id="message" class="materialize-textarea"></textarea>
+              <label for="message">Message</label>
+              <a class="waves-effect waves-light btn-large">Button</a>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <footer class="page-footer">
+      <div class="c">
+        <div class="d iv jc offset-m1">
+          <div class="c">
+            <div class="d ka ko">
+              <img class="materialize-logo" src="//cdn.shopify.com/s/files/1/1775/8583/t/1/assets/materialize-teal.png?11734121042004979933" alt="">
+              <p>Made with love by Materialize.</p>
+            </div>
+            <div class="d ka ko">
+              <h5>About</h5>
+              <ul>
+                <li><a href="#!">Blog</a></li>
+                <li><a href="#!">Pricing</a></li>
+                <li><a href="#!">Docs</a></li>
+              </ul>
+            </div>
+            <div class="d ka ko">
+              <h5>Connect</h5>
+              <ul>
+                <li><a href="#!">Community</a></li>
+                <li><a href="#!">Subscribe</a></li>
+                <li><a href="#!">Email</a></li>
+              </ul>
+            </div>
+            <div class="d ka ko">
+              <h5>Contact</h5>
+              <ul>
+                <li><a href="#!">Twitter</a></li>
+                <li><a href="#!">Facebook</a></li>
+                <li><a href="#!">Github</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <!-- Scripts -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
