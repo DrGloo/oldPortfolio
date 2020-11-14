@@ -2,6 +2,8 @@
 		background-image: url(Images/websitebackground.png);
 	}
 	
+
+
 	
 	#mainbox{
 		opacity:0.8;
@@ -19,5 +21,10 @@
 	
 	#Title1
 	{
-		color: Tomato;
+		color: rgb(69, 0, 231);
+	}
+
+	.header-background l
+	{
+		background-color: black;
 	}
